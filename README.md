@@ -1,9 +1,8 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/JosefAlbers/mcbook/main/assets/logo.png" alt="mcbook logo" width="500"/>
-  <h1>mcbook [WIP]</h1>
 </div>
 
-`mcbook` is a lightweight, graph-based knowledge base for LLM-driven research, technical editing, and automated peer review. It organizes documents, comments, and revisions into linked branches so an LLM can reason over both the current text and the history behind it.
+A lightweight, graph-based knowledge base for LLM-driven research, technical editing, and automated peer review. It organizes documents, comments, and revisions into linked branches so an LLM can reason over both the current text and the history behind it.
 
 ## What it does
 
