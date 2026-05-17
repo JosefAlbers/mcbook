@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JosefAlbers/mcbook/main/assets/logo.png" alt="mcbook logo" width="200"/>
+  <img src="https://raw.githubusercontent.com/JosefAlbers/mcbook/main/assets/logo.png" alt="mcbook logo" width="500"/>
   <h1>mcbook [WIP]</h1>
 </div>
 
